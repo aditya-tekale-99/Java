@@ -1,3 +1,9 @@
+//Author: Aditya Tekale
+
+/* For multiples of 3, prints Fizz instead of the number.
+   For the multiples of 5, prints Buzz.
+   For numbers which are multiples of both 3 and 5, prints FizzBuzz. */ 
+
 class FizzBuzz{
 
     public static void main(String args[]){
