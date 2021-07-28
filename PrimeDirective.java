@@ -1,3 +1,7 @@
+//Author: Aditya Tekale
+
+/*Coded a PrimeDirective.java program that creates an ArrayList of all prime numbers in an array.*/
+
 import java.util.ArrayList;
 class PrimeDirective{
     public boolean isPrime(int number){
